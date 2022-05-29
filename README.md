@@ -1,2 +1,3 @@
 # Movie_Recommendation_System
-This contains my web app for movie recommendation
+It is a content-based web application for movie recommendation using cosine similarity and vectorization
+
